@@ -9,6 +9,16 @@
       "country": "india",
       "address": "",
       "gender": "male"
+    },
+    {
+      "id": "Krishna",
+      "name": "Krishna Prasad Samudrala",
+      "password": "12345",
+      "email": "krishnasamudrala2002@gmail.com",
+      "phone": "",
+      "country": "india",
+      "address": "",
+      "gender": "male"
     }
   ]
 }
