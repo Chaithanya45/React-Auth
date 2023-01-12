@@ -19,6 +19,16 @@
       "country": "india",
       "address": "",
       "gender": "female"
+    },
+    {
+      "id": "Chaithanya",
+      "name": "Chaithanya Reddy",
+      "password": "12345",
+      "email": "123@gmail.com",
+      "phone": "",
+      "country": "india",
+      "address": "",
+      "gender": "male"
     }
   ]
 }
