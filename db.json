@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "id": "first",
+      "name": "first",
+      "password": "12345",
+      "email": "1@gmail.com",
+      "phone": "",
+      "country": "india",
+      "address": "",
+      "gender": "female"
+    },
+    {
+      "id": "sec",
+      "name": "sec",
+      "password": "12345",
+      "email": "2@gmail.com",
+      "phone": "",
+      "country": "india",
+      "address": "",
+      "gender": "female"
+    }
+  ]
+}
